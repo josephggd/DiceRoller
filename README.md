@@ -1,5 +1,6 @@
 # DiceRoller
 <b>Following UDACITY TUTORIAL for creating a Dice Roller app.</b>
+
 https://github.com/udacity/andfun-kotlin-dice-roller
 
 This tutorial covers lateinit and adding images to a project.
