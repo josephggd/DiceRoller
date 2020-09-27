@@ -1,5 +1,5 @@
 # DiceRoller
-Following UDACITY TUTORIAL for creating a Dice Roller app.
+<b>Following UDACITY TUTORIAL for creating a Dice Roller app.</b>
 
 This tutorial covers lateinit and adding images to a project.
 The images, in the format of vector drawables, are stored as .xml files that can be referenced conditionally.
